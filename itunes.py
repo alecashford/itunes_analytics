@@ -42,11 +42,11 @@ sorted_rank_list = sorted(ranks_as_list, key = lambda k: k['rank'])
 
 
 
-for i in sorted_count_list[:100]:
-	print i['name']
+# for i in sorted_count_list[:100]:
+# 	print i['name']
 
-for i in sorted_rank_list[:100]:
-	print i['name']
+# for i in sorted_rank_list[:100]:
+# 	print i['name']
 
 
 
